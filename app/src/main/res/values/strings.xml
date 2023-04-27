@@ -7,4 +7,18 @@
     <string name="password">Password:</string>
     <string name="loginBtn">Login</string>
     <string name="cancelBtn">Cancel</string>
+    <string name="registerHeader">Registration Form</string>
+    <string name="ALC">Welcome To Adventure Learning Club!</string>
+    <string name="fullName">Full Name:</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="LastNameHint">Last Name</string>
+    <string name="gender">Gender:</string>
+    <string name="radioBtn1">Female</string>
+    <string name="radioBtn2">Male</string>
+    <string name="studentID">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="registerBtn">Register</string>
+
 </resources>
